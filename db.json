@@ -1,0 +1,12 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "fullname": "Hojiakbar Egamberdiyev",
+      "otdel": "IT",
+      "position": "Frontend",
+      "gender": "Мужчина",
+      "date": "1997-04-19"
+    }
+  ]
+}
